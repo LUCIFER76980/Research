@@ -10,3 +10,4 @@ node_modules/
 # Logs
 *.log
 create-prs.bat
+create-prs.js
