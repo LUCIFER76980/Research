@@ -1,0 +1,11 @@
+# Large files
+*.zip
+*.pdf
+*.docx
+*.ipynb
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
